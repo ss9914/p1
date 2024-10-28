@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "name": "pragati",
+            "email": "pragati@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        }
+    ]
+}

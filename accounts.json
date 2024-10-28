@@ -1,0 +1,54 @@
+{
+    "accounts": [
+        {
+            "account_number": "1",
+            "balance": 700,
+            "pin": "2345"
+        },
+        {
+            "account_number": "9",
+            "balance": 500,
+            "pin": "2345"
+        },
+        {
+            "account_number": "111111111",
+            "balance": 1500,
+            "pin": "1234"
+        },
+        {
+            "account_number": "222222222",
+            "balance": 2000,
+            "pin": "1234"
+        },
+        {
+            "account_number": "333333333",
+            "balance": 2500,
+            "pin": "8111"
+        },
+        {
+            "account_number": "444444444",
+            "balance": 3000,
+            "pin": "3214"
+        },
+        {
+            "account_number": "555555555",
+            "balance": 3500,
+            "pin": "1234"
+        },
+        {
+            "account_number": "666666666",
+            "balance": 4000,
+            "pin": "1234"
+        },
+        {
+            "account_number": "777777777",
+            "balance": 4500,
+            "pin": "3214"
+        },
+        {
+            "account_number": "888888888",
+            "balance": 5000,
+            "pin": "1234"
+        }
+    ]
+}
